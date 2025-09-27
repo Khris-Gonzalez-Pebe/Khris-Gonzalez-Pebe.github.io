@@ -19,8 +19,8 @@ B.S. in Public Policy (Data Analytics concentration)
 
 ## 🛠 Skills
 - **Languages:** English (native), Spanish (native), French (basic), Portuguese (elementary)  
-- **GIS & Coding:** ArcGIS, Google Earth Engine, Google Earth Pro, GitHub, Colab, Stata, R, Python, JavaScript  
-- **Visualization & Editing:** Adobe Express, Premiere, Flourish, Figma, Microsoft Publisher/PowerPoint  
+- **GIS & Coding:** ArcGIS, Google Earth Engine, Google Earth Pro, GitHub, Colab, Stata, R, Python  
+- **Visualization & Editing:** Adobe Express, Canva, Premiere, Flourish, Figma, Microsoft Publisher/PowerPoint  
 
 ---
 
