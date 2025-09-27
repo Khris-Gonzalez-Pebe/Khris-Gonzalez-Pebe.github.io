@@ -1,9 +1,5 @@
----
-layout: default
-title: Resume
----
 
-# Resume – Gabriella Khristel (Khris) Gonzalez Pebe
+# Resume – Khris Gonzalez Pebe
 
 📍 Los Angeles, CA | 📞 (213) 551-9492 | ✉️ kkgonzal@usc.edu | [LinkedIn](https://www.linkedin.com/in/khris-gonzalez-pebe/)
 
@@ -13,7 +9,7 @@ title: Resume
 **University of Southern California – Spatial Sciences Institute** (Expected May 2026)  
 Dual Progressive M.S. in Human Security & Geospatial Intelligence · GPA 3.82  
 B.S. in Public Policy (Data Analytics concentration)  
-- Honors: Obama-Chesky Voyager ’26 · Paris Gilman Scholar ’25 · Meridian-Cox Foreign Service Fellow ’24 · USGIF Scholar ’24  
+- Honors: Obama-Chesky Voyager ’26 · U.S. Critical Language Scholar For Arabic Finalist ’25 · Paris Gilman Scholar ’25 · Meridian-Cox Foreign Service Fellow ’24 · USGIF Scholar ’24  
 - Relevant Courses: International Development, GIS Applications, Remote Sensing, Applied Data Science for IR  
 
 **FAU Erlangen-Nürnberg Institute of Geography** (Feb 2025)  
