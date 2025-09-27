@@ -26,40 +26,24 @@ B.S. in Public Policy (Data Analytics concentration)
 
 ## 💼 Professional Experience
 **USC – State Government Relations** | Undergraduate Intern | *Sept 2025–Present*  
-- Draft bill analyses and issue briefs integrating legislative data with stakeholder mapping.  
-- Maintain internal datasets on state legislation; prepare memos for leadership.  
 
 **USC Dornsife – Political Science & IR** | Teaching Assistant | *Aug 2025–Present*  
-- Support students with R coding and computational workflows.  
-- Revise IR 412/413 content to improve technical/data visualization training.  
 
 **The Daily Trojan** | Data Editor | *Aug 2024–Present*  
-- Produce 3+ data visualizations per month with Flourish.  
-- Clean and cross-verify datasets for clarity and accuracy.  
 
 **The Global Policy Institute** | Editorial Fellow | *Aug 2022–Present*  
-- Author 2–3 peer-reviewed articles per semester on global politics, rights, and security.  
-- Conduct research, fact-checking, and source validation.  
 
 **UN Operations and Crisis Centre (UNOCC)** | GIS Data Analyst Intern | *Jun–Dec 2025*  
-- Produced weekly geospatial briefings for UN senior leadership using OSINT.  
-- Managed API pipelines and authored GIS Standard Operating Procedures.  
 
 **International Social Service (ISS)** | Network Development Intern | *Apr–Oct 2025*  
-- Conducted due diligence on LATAM partners; built 3 digital tools for case tracking.  
 
 **USCENTCOM – Dept. of Defense** | Intelligence Analyst Intern | *May 2024–May 2025*  
-- Mapped 150+ infrastructure damage events via open-source geospatial forensics.  
-- Produced weekly reports on Captagon trade dynamics in Syria.  
 
 **Accountability Counsel** | Research Fellow | *Jun–Aug 2024*  
-- Enhanced a Python database for 2,800+ projects; conducted interviews and QA.  
 
 **USC Gould Housing Law & Policy Clinic** | Director of Comms / Bilingual Assistant | *Mar–Dec 2023*  
-- Managed 40+ communications products on housing rights; translated legal docs.  
 
 **Alliance for Children’s Rights** | Law Clerk Intern | *May–Oct 2023*  
-- Led 200+ Spanish-language intake calls; drafted 80+ legal declarations and briefs.  
 
 ---
 
@@ -67,7 +51,7 @@ B.S. in Public Policy (Data Analytics concentration)
 - **World Economic Forum – Global Shapers (LA Hub)** | *2025–Present*  
 - **Social Justice Learning Institute – Youth Justice Fellow** | *2024–2025*  
 - **RFK Human Rights – John Lewis Young Leaders Fellow** | *2024–2025*  
-- **Delta Phi Epsilon (DPE) Foreign Service Society – EVP & Humanitarian Service Director** | *2024–2025*  
+- **Delta Phi Epsilon (DPE) Foreign Service Society – External Vice-President & Humanitarian Service Director** | *2024–2025*  
 
 ---
 
@@ -81,6 +65,3 @@ B.S. in Public Policy (Data Analytics concentration)
 - **Crime Mapping in California (2010–2019)** – County-level GIS analysis; StoryMap with 20+ visualizations.  
 
 ---
-
-## 📄 Download
-👉 [Download Resume (PDF)](./assets/docs/Khris_Gonzalez_Resume.pdf)
