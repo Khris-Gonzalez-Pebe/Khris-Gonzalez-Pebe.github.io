@@ -4,5 +4,4 @@ theme: jekyll-theme-cayman
 url: https://Khris-Gonzalez-Pebe.github.io
 markdown: kramdown
 
-# Optional footer note (ownership)
-footer_content: "© 09/27/2025. Khris Gonzalez Pebe. All rights reserved."
+footer_content: © 09/27/2025. Khris Gonzalez Pebe. All rights reserved.
